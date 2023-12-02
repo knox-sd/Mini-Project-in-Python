@@ -7,7 +7,7 @@
 import tkinter as tk
 calculation = ""
 
-# Function to evalute the expressopm in the entry field
+# Function to evalute the expresson in the entry field
 def evalute_cal():
     global calculation
     try:
